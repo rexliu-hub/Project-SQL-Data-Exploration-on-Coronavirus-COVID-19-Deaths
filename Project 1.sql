@@ -1,3 +1,5 @@
+--Link to Dataset: https://ourworldindata.org/covid-deaths
+
 Select * 
 from [Project 1]..CovidDeaths$
 order by 3,4
